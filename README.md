@@ -1,7 +1,9 @@
 # git_jenkins_howto
 
 Preconditions:
+
 - linux ubuntu
+
 -- nginx webserver
 -- git server
 -- jenkins server
